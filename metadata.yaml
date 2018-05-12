@@ -1,0 +1,38 @@
+_repo: Vonken_38920
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Meijboom, Margaretha
+    birthdate: 1856
+    deathdate: 1927
+    gutenberg_agent_id: '33842'
+    url: http://www.gutenberg.org/2009/agents/33842
+covers:
+- cover_type: archival
+  image_path: 38920-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lagerlöf, Selma
+    aliases:
+    - Lagerloef, Selma
+    - Lagerlof, Selma
+    - Lagerlöf, Selma Ottiliana Lovisa
+    birthdate: 1858
+    deathdate: 1940
+    gutenberg_agent_id: '1717'
+    url: http://www.gutenberg.org/2009/agents/1717
+    wikipedia: http://en.wikipedia.org/wiki/Selma_Lagerlöf
+description: ''
+gutenberg_issued: '2012-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38920'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swedish fiction -- Translations into Dutch'
+- !lcc 'PT'
+title: Vonken
+url: http://www.gutenberg.org/ebooks/38920
