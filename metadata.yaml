@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1717
     wikipedia: http://en.wikipedia.org/wiki/Selma_Lagerlöf
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38920#Vonken
 gutenberg_issued: '2012-02-18'
 gutenberg_type: Text
 identifiers:
